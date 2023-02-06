@@ -9,7 +9,7 @@ I'm in love with communication and technology.
   I love solving problems and creating innovative solutions. I'm an enthusiastic about learning new things and meeting new people..
 
   ## :envelope_with_arrow: Connect
-* Do you have any question or project to work together? Don't hesitate! Coffee's on me :coffee:.
+* Do you have any question or project to work together?
 
 <p align="left" >
      <a href="mailto:gabriela_1isabel@hotmail.com?Subject=I%20want%20to%20propose%20you%20something" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/48330849/172060688-5e1bf6ca-7bb9-43a2-b202-001170434946.png"  width="45"></a>
