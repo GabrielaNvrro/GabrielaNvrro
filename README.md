@@ -2,7 +2,7 @@
 <p align="center">
   <a href="https://sebascmb.github.io/Link-Bio/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/116120241/217100528-0ab0ac26-4b17-4652-b192-66c2abe409de.jpeg" alt="my banner"></a>
 </p>
-<h2 align="center"> I'm a Computer Science Student :computer:! </h2>
+<h2 align="center"> I'm a Multimedia Engineering Student :computer:! </h2>
 
 > "I'm here to put on a show".
 
