@@ -4,7 +4,6 @@
 </p>
 <h2 align="center"> I'm a Multimedia Engineering Student :computer:! </h2>
 
-> "I'm here to put on a show".
 
 I'm in love with communication and technology. 
   I love solving problems and creating innovative solutions. I'm an enthusiastic about learning new things and meeting new people..
