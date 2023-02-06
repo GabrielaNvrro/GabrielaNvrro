@@ -1,6 +1,6 @@
 <h2 align="center"> Hi! I'm Gabriela Navarro :sparkles:. </h2>
 <p align="center">
-  <a href="https://sebascmb.github.io/Link-Bio/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/109773982/204373438-44524b9a-6b3d-4f05-a934-de723bf60f00.png" alt="my banner"></a>
+  <a href="https://sebascmb.github.io/Link-Bio/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/116120241/217100528-0ab0ac26-4b17-4652-b192-66c2abe409de.jpeg" alt="my banner"></a>
 </p>
 <h2 align="center"> I'm a Computer Science Student :computer:! </h2>
 
@@ -24,3 +24,5 @@ I'm in love with communication and technology.
 
 ## :keyboard: Languages 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielaNvrro&layout=compact&theme=tokyonight)](https://github.com/Lagaress/github-readme-stats)
+
+  
